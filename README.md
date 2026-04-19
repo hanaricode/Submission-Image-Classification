@@ -1,6 +1,6 @@
 # 🐾 Animals10 Image Classification — CNN Deep Learning
 
-[![Python](https://img.shields.io/badge/Python-3.12-FFE873)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Jupyter_Notebook-3.12-FFE873)](https://www.Jupyter.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00)](https://www.tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Keras-3.x-D00000)](https://keras.io/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
