@@ -243,7 +243,7 @@ Download the [Animals-10 dataset](https://www.kaggle.com/datasets/alessiocorrado
 ### 4. Run the notebook
 
 ```bash
-jupyter notebook proyek-akhir-klasifikasi-gambar.ipynb
+jupyter notebook Proyek-Akhir-Klasifikasi-Gambar.ipynb
 ```
 
 ---
