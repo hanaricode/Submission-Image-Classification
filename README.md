@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Jupyter_Notebook-3.12-FFE873)](https://www.Jupyter.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00)](https://www.tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Keras-3.x-D00000)](https://keras.io/)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-darkgreen)](LICENSE)
 
 ## 📝 Description
 
@@ -150,7 +150,7 @@ Built using **Keras Sequential API** with 4 Convolutional blocks followed by Den
 
 ### Accuracy & Loss Plot
 
-![Accuracy and Loss Plot](accuracy_loss_plot.png)
+![Accuracy and Loss Plot](image/accuracy_loss_plot.png)
 
 ---
 
@@ -187,7 +187,7 @@ The model was tested using the **SavedModel** format on a random image from the 
 
 ### Inference Screenshot
 
-![Inference Result](bukti_inferensi.png)
+![Inference Result](image/bukti_inferensi.png)
 
 ---
 
@@ -252,4 +252,4 @@ jupyter notebook Proyek-Akhir-Klasifikasi-Gambar.ipynb
 
 - **Name** : Hanari
 - **Platform** : Kaggle (GPU P100)
-- © 2026 Hanari. All Rights Reserved. Licensed under [MIT License](LICENSE).
+- © 2026 Hanari. All Rights Reserved. Licensed under [CC BY-NC-ND 4.0](LICENSE).
